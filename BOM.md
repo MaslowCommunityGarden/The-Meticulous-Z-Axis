@@ -32,6 +32,8 @@ Dust Hood:
 
 * Some form of plastic glue or epoxy to help glue the chute and body of the hood together.
 
+Notes:
+
 *: This kit is actually 400mm, I just cut down the parts. You could order a 300mm long kit instead.
 
 **: The parts listed have a 1/4" bore. The lead screw is 8mm, so you will need to bore out the pulley, or find a 8mm bore pulley
