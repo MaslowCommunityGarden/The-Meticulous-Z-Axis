@@ -8,15 +8,15 @@ Z-Axis:
 
 These pulleys are optional, if you want to increase axis travel speed while still using the stock motor:
 
-* [XL 10 tooth timing belt pulley - For motor output shaft](https://www.automationdirect.com/adc/Shopping/Catalog/Power_Transmission_(Mechanical)/Synchronous_Drives_(Timing_Belts_-a-_Pulleys)/Timing_Pulleys_(Sprockets)/XL_(0.200_inch_Pitch)_Timing_Pulleys/APB10XL025BF-250)
+* [XL 10 tooth timing belt pulley - for lead screw**](https://www.automationdirect.com/adc/Shopping/Catalog/Power_Transmission_(Mechanical)/Synchronous_Drives_(Timing_Belts_-a-_Pulleys)/Timing_Pulleys_(Sprockets)/XL_(0.200_inch_Pitch)_Timing_Pulleys/APB10XL025BF-250)
 
-* [XL 15 tooth timing belt pulley**](https://www.automationdirect.com/adc/Shopping/Catalog/Power_Transmission_(Mechanical)/Synchronous_Drives_(Timing_Belts_-a-_Pulleys)/Timing_Pulleys_(Sprockets)/XL_(0.200_inch_Pitch)_Timing_Pulleys/APB15XL025BF-250) - 90 mm/min travel speed
+* [XL 15 tooth timing belt pulley** - for motor output shaft](https://www.automationdirect.com/adc/Shopping/Catalog/Power_Transmission_(Mechanical)/Synchronous_Drives_(Timing_Belts_-a-_Pulleys)/Timing_Pulleys_(Sprockets)/XL_(0.200_inch_Pitch)_Timing_Pulleys/APB15XL025BF-250) - 90 mm/min travel speed
 
-* [XL 20 tooth timing belt pulley - for lead screw**](https://www.automationdirect.com/adc/Shopping/Catalog/Power_Transmission_(Mechanical)/Synchronous_Drives_(Timing_Belts_-a-_Pulleys)/Timing_Pulleys_(Sprockets)/XL_(0.200_inch_Pitch)_Timing_Pulleys/APB20XL025BF-250) - 120 mm/min travel speed
+* [XL 20 tooth timing belt pulley - for for motor output shaft](https://www.automationdirect.com/adc/Shopping/Catalog/Power_Transmission_(Mechanical)/Synchronous_Drives_(Timing_Belts_-a-_Pulleys)/Timing_Pulleys_(Sprockets)/XL_(0.200_inch_Pitch)_Timing_Pulleys/APB20XL025BF-250) - 120 mm/min travel speed
 
-* [XL 26 tooth timing belt pulley - for lead screw**](https://www.automationdirect.com/adc/Shopping/Catalog/Power_Transmission_(Mechanical)/Synchronous_Drives_(Timing_Belts_-a-_Pulleys)/Timing_Pulleys_(Sprockets)/XL_(0.200_inch_Pitch)_Timing_Pulleys/APB26XL025BF-250) - 150 mm/min travel speed
+* [XL 26 tooth timing belt pulley - for for motor output shaft](https://www.automationdirect.com/adc/Shopping/Catalog/Power_Transmission_(Mechanical)/Synchronous_Drives_(Timing_Belts_-a-_Pulleys)/Timing_Pulleys_(Sprockets)/XL_(0.200_inch_Pitch)_Timing_Pulleys/APB26XL025BF-250) - 150 mm/min travel speed
 
-* [XL 30 tooth timing belt pulley - for lead screw**](https://www.automationdirect.com/adc/Shopping/Catalog/Power_Transmission_(Mechanical)/Synchronous_Drives_(Timing_Belts_-a-_Pulleys)/Timing_Pulleys_(Sprockets)/XL_(0.200_inch_Pitch)_Timing_Pulleys/APB30XL025BF-250) - 180 mm/min travel speed
+* [XL 30 tooth timing belt pulley - for for motor output shaft](https://www.automationdirect.com/adc/Shopping/Catalog/Power_Transmission_(Mechanical)/Synchronous_Drives_(Timing_Belts_-a-_Pulleys)/Timing_Pulleys_(Sprockets)/XL_(0.200_inch_Pitch)_Timing_Pulleys/APB30XL025BF-250) - 180 mm/min travel speed
 
 Hardware:
 
