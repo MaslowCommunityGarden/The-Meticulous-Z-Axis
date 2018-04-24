@@ -1,6 +1,8 @@
 Z-Axis:
 
-* [300mm Linear rail and lead screw kit*](https://www.banggood.com/15pcs-400mm-CNC-Parts-Optical-Axis-Guide-Bearing-Housings-Aluminum-Rail-Shaft-Support-Screws-Set-p-1136854.html?p=96231686871952017014)	
+* [400mm Linear rail and lead screw kit*](https://www.banggood.com/15pcs-400mm-CNC-Parts-Optical-Axis-Guide-Bearing-Housings-Aluminum-Rail-Shaft-Support-Screws-Set-p-1136854.html?p=96231686871952017014) - Ships from China
+
+* [300mm Linear rail and lead screw kit](https://www.amazon.com/Mergorun-Horizontal-Bearings-coordinate-equipment/dp/B06XP7HPLQ/ref=pd_sbs_60_29?_encoding=UTF8&pd_rd_i=B06XP7HPLQ&pd_rd_r=SZ3G92NTD90MZG8VX32C&pd_rd_w=Ojo8X&pd_rd_wg=Pi8E4&psc=1&refRID=SZ3G92NTD90MZG8VX32C) - Amazon
 
 * [XL 1/4" x 9" timing belt](https://www.mcmaster.com/#6484k119/=1cjejhd)
 
