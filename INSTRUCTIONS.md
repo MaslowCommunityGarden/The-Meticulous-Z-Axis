@@ -1,14 +1,14 @@
-~~Run the "PrototypeSled" programs on good 18mm plywood. Either run the "All" program or run each tool program on its own, depending on your tool change preference. 
+~~Run the "PrototypeSled" programs on good 18mm plywood. Either run the "All" program or run each tool program on its own, depending on your tool change preference.~~
 
-~~Tool changes are (in order):
+~~Tool changes are (in order):~~
 
-~~1) T3 = Engrave (Engraving bit of your choice)
+~~1) T3 = Engrave (Engraving bit of your choice)~~
 
-~~2) T4 = Drill (1/8" drill bit)
+~~2) T4 = Drill (1/8" drill bit)~~
 
-~~3) T2 = 0125in-2FL (1/8" 2 flute upshear bit)
+~~3) T2 = 0125in-2FL (1/8" 2 flute upshear bit)~~
 
-~~4) T1 = 0250in-1Fl (1/4" 1 flute upshear bit)
+~~4) T1 = 0250in-1Fl (1/4" 1 flute upshear bit)~~
 
 The above instructions are outdated. For more information on tool changes, please refer to the comments in the MeticulousSled_All.nc file.
 
