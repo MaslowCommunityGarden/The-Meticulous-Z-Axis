@@ -1,16 +1,16 @@
-~~Run the "PrototypeSled" programs on good 18mm plywood. Either run the "All" program or run each tool program on its own, depending on your tool change preference.~~
+Run the "MeticulousSled" programs on high quality, 18mm plywood with little to no voids. Either run the "All" program or run each tool program on its own, depending on your tool change preference.
 
-~~Tool changes are (in order):~~
+Tools used are :
 
-~~1) T3 = Engrave (Engraving bit of your choice)~~
+T1 = 0250in-1Fl (1/4" 1 flute flat mill)
 
-~~2) T4 = Drill (1/8" drill bit)~~
+T2 = Engrave (Engraving bit of your choice)
 
-~~3) T2 = 0125in-2FL (1/8" 2 flute upshear bit)~~
+T4 = Drill (1/8" stub drill)
 
-~~4) T1 = 0250in-1Fl (1/4" 1 flute upshear bit)~~
+T5 = Drill (3/16" stub drill)
 
-The above instructions are outdated. For more information on tool changes, please refer to the comments in the MeticulousSled_All.nc file.
+T6 = 150mm-2FL (1.5mm 2 flute flat mill)
 
 Link to Fusion360 Model: http://a360.co/2jWip1u
 
