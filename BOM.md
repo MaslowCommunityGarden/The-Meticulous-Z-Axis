@@ -26,6 +26,10 @@ Hardware:
 
 * 2x 1/4-20 x 1 1/2" hex cap screws, with nylock nut and washers
 
+* 12x 10-32 x 3/4" Pan Head Machine Screws
+
+* [12x 10-32 Threaded inserts for softwood](https://www.mcmaster.com/92105a670)
+
 Dust Hood:
 
 * [3x 10-32 Heat-set Insert](https://www.mcmaster.com/#93365a154/=1cdxw1v)
