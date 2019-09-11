@@ -10,8 +10,6 @@ T4 = Drill (1/8" stub drill)
 
 T5 = Drill (3/16" stub drill)
 
-T6 = 150mm-2FL (1.5mm 2 flute flat mill)
-
 Link to Fusion360 Model: http://a360.co/2jWip1u
 
 Assemble the components according to the 3D model provided, using the tabs to line each of the parts up. Use wood glue on each connection, then scew through the 1/8" pilot hole using a #8 wood screw to clamp the parts together while the glue dries. Attach the Z-Axis lead screw and linear guides according to the model.
@@ -21,3 +19,35 @@ Run the "DustWindow" part on 1/8" plexiglass using an 1/8" two flute upshear bit
 Print the Dust Hood Body, Chute, and adaptor using either your own or your friend's 3D printer. I can also print you one if you don't have easy access to a printer. PM me (MeticulousMaynard) and I'll get one out to you for some postage and the cost of the plastic.
 
 The body of the dust hood has some holes in it. You will need to use heat-set threaded inserts in these holes so that you can screw down the dust window with a screwdriver.
+
+Z-Axis pitch Calibration:
+
+From my measurements that I took during my setup, I've derived 7.125 as being the mm/rev for the lead screw. To get your initial setting for Ground Control, you would multiply that by your gearing ratio. 
+
+Z = - ( 7.125 * R )
+
+Where:
+Z = Z Axis mm/rev
+R = Gear Ratio
+
+If the carriage moves the wrong direction, make sure your pitch is a negative value!
+
+Test it with a dial indicator to make sure that its working as intended. You could also use calipers or even a ruler, but the more accurate you are here, the better off you will be in the long run. Multiply the error by your current setting to get the corrected one, if needed.
+
+To calculate the movement error:
+
+E = D2 / D1
+
+Where:
+E = Error
+D2 = Distance the carriage actually moved
+D1 = Distance the carriage was requested to move
+
+To calculate the corrected setting:
+
+C = Z * E
+
+Where:
+C = Corrected Z-Axis mm/rev
+Z = Z-Axis mm/rev from the test
+E = Error 
