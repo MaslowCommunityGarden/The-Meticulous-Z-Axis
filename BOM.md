@@ -16,6 +16,8 @@ Z-Axis - $67.92 before shipping
 
 * 12x 10-32 x 3/4" Pan Head Machine Screws
 
+* [12x M4 x 0.7 x 30mm Pan Head Machine Screws](https://www.homedepot.com/p/Everbilt-M4-0-7-x-30-mm-Phillips-Pan-Head-Zinc-Plated-Machine-Screw-2-Pack-802908/204282670) - linked pack is 2x per pack, order 6x for needed quantity. 
+
 
 
 
