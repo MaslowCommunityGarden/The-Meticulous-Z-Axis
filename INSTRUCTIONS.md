@@ -22,9 +22,9 @@ The body of the dust hood has some holes in it. You will need to use heat-set th
 
 Z-Axis pitch Calibration:
 
-From my measurements that I took during my setup, I've derived 7.125 as being the mm/rev for the lead screw. To get your initial setting for Ground Control, you would multiply that by your gearing ratio. 
+From my measurements that I took during my setup, I've derived 8 as being the mm/rev for the lead screw. To get your initial setting for Ground Control, you would multiply that by your gearing ratio. 
 
-Z = - ( 7.125 * R )
+Z = - ( 8 * R )
 
 Where:
 Z = Z Axis mm/rev
