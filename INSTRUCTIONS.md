@@ -1,25 +1,31 @@
-Meticulous Z-Axis Updated Instructions
+**Meticulous Z-Axis Updated Instructions**
 
-Tool list:
+**Tool list:**
 
 T1 = 1/4" single flute end mill
+
 T2 = 1/8" single flute end mill
+
 T3 = Engraving bit (I use a 30 degree one for crisp, thin lines)
+
 T4 = 1/8" Stub drill, or center drill
+
 T5 = 3/16" Stub drill
 
-Programs:
+**Programs:**
 
 There are two sets of programs in the NC files folder. One is for the standard version, the other is for the fully Maslowable version. Only run the one you need, or you will have spare parts. The program lists are as follows:
 
-Standard Version:
+*Standard Version:*
 
 MeticulousSled_18mmPly.nc
  - Cuts all the plywood components. Requires a piece at least 48" x 21" (1219.2 x 530mm) of 23/32" (18mm) high-quality plywood. Anything without voids in the plys will work.
  - Tools used: T1, T3, T4
+ 
 MeticulousSled_DustWindow_All.nc
  - Cuts the 1/8" clear plexiglass window for the dust chute. Requires a piece at least 6" x 6" (150 x 150mm) of 1/8" (3.175mm) clear plexiglass. Needs to be impact-resistant clear plastic.
  - Tools used: T1, T5
+ 
 MeticulousSled_HDPE.nc
  - Cuts the HDPE/UHMW skid panel for the bottom of the sled. Required a piece at least 20" x 20" (508 x 508mm) of 1/8" (3.175mm) HDPE/UHMW.
  - Tool used: T1
@@ -28,9 +34,13 @@ In addition, the following parts need to be printed on a machine with a bed at l
 
 1x Dust Hood Body V2.stl
  - This prints best with the hose port flat on the bed. Use supports touching the buildplate
+ 
 1x Dust Hood Chute V2.stl
+
 1x Z_Axis_Lead_Screw_Nut_Bracket.stl
+
 2x Spindle Bracket Top Back.stl
+
 2x Spindle Bracket Top Front.stl
 
 PLA is okay, but ABS or PETG is better. Any layer adhesion issues will severely compromise the strength of the components, so make sure to use an enclosure when printing in ABS. There have been reports of PLA degrading in warmer climates, if you live in a hot place it is recommended to use ABS or PETG.
@@ -39,17 +49,20 @@ The dust hood body is designed to use 3x 10-32 heat-set threaded inserts for the
 
 The spindle bracket back is designed to use 4x 3/8"-16 heat-set threaded inserts. Two are on the back face, used to mount the clamp to the Z carriage. The other two are on the front face, and are used to bolt the bracket front on. Using a soldering iron, set each insert into the holes in the print.
 
-Maslowable Version:
+*Maslowable Version:*
 
 MeticulousSled_FullyMaslowd_18mm Plywood.nc
  - Cuts the majority of the plywood components. Requires a piece at least 48" x 21" (1219.2 x 530mm) of 23/32" (18mm) high-quality plywood. Anything without voids in the plys will work.
  - Tools used: T1, T2, T3, T4 
+ 
 MeticulousSled_FullyMaslowd_12.7mm Plywood.nc
  - Cuts plywood components for dust chute. Requires a piece at least 14 1/4" x 8 5/8" (360 x 220mm) of 1/2" (12.7mm) high-quality plywood.
  - Tools used: T1, T2
+ 
 MeticulousSled_FullyMaslowd_3.175mm HDPE.nc
  - Cuts the HDPE/UHMW skid panel for the bottom of the sled. Required a piece at least 20" x 20" (508 x 508mm) of 1/8" (3.175mm) HDPE/UHMW.
  - Tool used: T1
+ 
 MeticulousSled_FullyMaslowd_3.175mm Plexi.nc
  - Cuts the 1/8" clear plexiglass window for the dust chute. Requires a piece at least 6" x 6" (150 x 150mm) of 1/8" (3.175mm) clear plexiglass. Needs to be impact-resistant clear plastic.
  - Tools used: T1, T2
@@ -57,7 +70,7 @@ MeticulousSled_FullyMaslowd_3.175mm Plexi.nc
 For the dust hood, you will also need a small piece of sheet metal. A piece of 0.060" aluminum will work great, as it can be cut with hand shears.
 For mounting the lead screw nut on the carriage, you will need a small piece of 1" x 1" angle iron. These can be bought at almost any hardware store. It will need to be cut 2" long, then drilled for the lead screw nut and mounting screws to the carriage plate.
 
-Assembly:
+**Assembly:**
 
 For reference, the Fusion 360 model: http://a360.co/2jWip1u
 
@@ -103,14 +116,16 @@ Install your weights to the sled. I use some steel bars that weigh about 3 1/2 l
 
 From here, install the sled on the machine. Attach your chains to your linkage/ring. Attach the dust collection hose. For both dust hoods, I used a 2 1/2" hose as my standard. Adaptors can be bought or printed for other hose sizes. I like to have a "parking position" for my sled, which is simply a piece of 1/4"-20 threaded rod bolted above my cutting area off to the right. I used to center mine, but with the dust collector hose handing off the bottom its easier to have it offset to one side so you can load and unload the machine easier. You will have to drill a clearance hole in the top of the sled for the threaded rod. 
 
-Installation:
+**Installation:**
 
 This is the easy part. With your sled on your machine, hook up the router power and the motor cable. It may be wise to upgrade the z-axis motor cable with a shielded cover. Otherwise, you will need to route the power and motor cables separately to avoid having signal interference. 
 
 The only settings change we need to make is to change the Z axis pitch. The value you enter in here is going to depending on the gearing you have at the motor. I feel pretty good about a 3:1 ratio, the axis moves as quickly as I need it to and it doesn't struggle with it. The lead screw has a pitch of 8mm/rev, so you simply multiply that pitch by your gear ratio. Open up Ground Control/Web Control and go to "Maslow Settings". Find the setting "Z-axis pitch" and enter in the following depending on your gearing:
 
 3:1 = -24 (ex: 30T and 10T, 60T and 20T)
+
 2:1 = -16 (ex: 20T and 10T, 40T and 20T)
+
 1:1 = -8 (ex: 10T and 10T, 20T and 20T)
 
 Make sure you enter a negative value! If you set a positive value, the axis will move backwards. Because the motor is flipped 180 from the stock position, we need to tell Ground Control to flip the rotation direction.
@@ -125,10 +140,22 @@ To calculate the movement error:
 
 E = D2 / D1
 
-Where: E = Error D2 = Distance the carriage actually moved D1 = Distance the carriage was requested to move
+Where: 
+
+E = Error 
+
+D2 = Distance the carriage actually moved D
+
+1 = Distance the carriage was requested to move
 
 To calculate the corrected setting:
 
 C = Z * E
 
-Where: C = Corrected Z-Axis mm/rev Z = Z-Axis mm/rev from the test E = Error
+Where: 
+
+C = Corrected Z-Axis mm/rev 
+
+Z = Z-Axis mm/rev from the test 
+
+E = Error
