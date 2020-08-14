@@ -16,9 +16,13 @@ Z-Axis - $67.92 before shipping
 
 * 12x 10-32 x 3/4" Pan Head Machine Screws
 
-* [12x M4 x 0.7 x 30mm Pan Head Machine Screws](https://www.homedepot.com/p/Everbilt-M4-0-7-x-30-mm-Phillips-Pan-Head-Zinc-Plated-Machine-Screw-2-Pack-802908/204282670) - linked pack is 2x per pack, order 6x for needed quantity. 
+* [16x M4 x 0.7 x 30mm Pan Head Machine Screws](https://www.homedepot.com/p/Everbilt-M4-0-7-x-30-mm-Phillips-Pan-Head-Zinc-Plated-Machine-Screw-2-Pack-802908/204282670) - linked pack is 2x per pack, order 8x for needed quantity. 
 
+Spindle Clamps:
 
+* [4x 3/8"-16 Heat set threaded inserts](https://www.mcmaster.com/93365A310/)
+
+* [4x 3/8"-16 x 3/4" Socket Cap screws](https://www.mcmaster.com/91251A622/)
 
 
 Dust Hood:
