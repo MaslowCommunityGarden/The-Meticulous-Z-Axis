@@ -20,9 +20,11 @@ Z-Axis - $67.92 before shipping
 
 Spindle Clamps:
 
-* [4x 3/8"-16 Heat set threaded inserts](https://www.mcmaster.com/93365A310/)
+* [8x 3/8"-16 Heat set threaded inserts](https://www.mcmaster.com/93365A310/)
 
 * [4x 3/8"-16 x 3/4" Socket Cap screws](https://www.mcmaster.com/91251A622/)
+
+* [4x 3/8"-16 x 3/4" Flat Head screws](https://www.mcmaster.com/90273A439/)
 
 
 Dust Hood:
